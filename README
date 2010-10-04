@@ -1,0 +1,5 @@
+Matrax - A Simple, Flexible, Realtime Site Visit Visualizer
+
+Matrax is a way to visualize visits to any of your content across the web. Simply embed a simple image into your blog, forum, or other posts. When you visit the Matrax dashboard, you'll use the power of Websockets to talk to your Node.js server and view visits to that content in real time.
+
+Matrax is still SUPER early in development. Feel free to stay tuned, but things will be changing drastically as we go.
