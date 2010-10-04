@@ -16,7 +16,7 @@ $(document).ready(function() {
    });
    
    socket.on('message', function(data){
-     $('#reciever').append('<li>' + data + '</li>');  
+     $('#reciever').append('<li>Just got back: ' + data + '</li>');  
    });
       
  });
